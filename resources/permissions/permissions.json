@@ -1,0 +1,308 @@
+{
+    "permissions": {
+        "main_area": [
+            {
+                "name": "Dashboard access",
+                "nameInput": "dashboard_access"
+            },
+            {
+                "name": "View orders",
+                "nameInput": "manage_orders_mgmt"
+            }
+        ],
+        "pos_area": [
+            {
+                "name": "POS",
+                "nameInput": "pos_module"
+            },
+            {
+                "name": "POS Home view",
+                "nameInput": "pos_home_module"
+            },
+            {
+                "name": "Kitchen view",
+                "nameInput": "pos_kitchen_module"
+            },
+            {
+                "name": "Ready view",
+                "nameInput": "pos_ready_view_module"
+            },
+            {
+                "name": "E-kiosk view",
+                "nameInput": "pos_e_kiosk_module"
+            },
+            {
+                "name": "History view",
+                "nameInput": "pos_history_view_module"
+            },
+            {
+                "name": "Settings",
+                "nameInput": "pos_settings_module"
+            },
+            {
+                "name": "Create new sales",
+                "nameInput": "create_new_sales"
+            },
+            {
+                "name": "Add discounts",
+                "nameInput": "pos_discount_module"
+            },
+            {
+                "name": "Cancel order",
+                "nameInput": "cancel_order_module"
+            },
+            {
+                "name": "Refund order",
+                "nameInput": "refund_order_module"
+            },
+            {
+                "name": "Print order slip",
+                "nameInput": "pos_print_order_slip"
+            },
+            {
+                "name": "Create Z-report",
+                "nameInput": "pos_z_report_module"
+            },
+            {
+                "name": "End Z-report",
+                "nameInput": "pos_end_z_report_module"
+            },
+            {
+                "name": "Create X-report",
+                "nameInput": "pos_x_report_module"
+            }
+        ],
+        "kitchen_area": [
+            {
+                "name": "Kitchen Home",
+                "nameInput": "kitchen_module"
+            },
+            {
+                "name": "History view",
+                "nameInput": "kitchen_history_view_module"
+            },
+            {
+                "name": "Settings view",
+                "nameInput": "kitchen_settings_module"
+            },
+            {
+                "name": "Assign orders",
+                "nameInput": "kitchen_assign_orders_module"
+            },
+            {
+                "name": "Check items",
+                "nameInput": "kitchen_check_module"
+            },
+            {
+                "name": "Print item stickers",
+                "nameInput": "kitchen_print_item_stickers_module"
+            },
+            {
+                "name": "Confirm orders",
+                "nameInput": "kitchen_confirm_orders_module"
+            },
+            {
+                "name": "Manage kitchen",
+                "nameInput": "manage_kitchen"
+            },
+            {
+                "name": "Incoming kitchen requests",
+                "nameInput": "manage_kitchen_incoming_requests"
+            },
+            {
+                "name": "Manage Pos",
+                "nameInput": "manage_pos"
+            },
+            {
+                "name": "Incoming pos requests",
+                "nameInput": "manage_pos_incoming_requests"
+            }
+        ],
+        "system_asset": [
+            {
+                "name": "System asset module",
+                "nameInput": "manage_system_assets"
+            }
+        ],
+        "module_area": [
+            {
+                "name": "Cash register module",
+                "nameInput": "cash_register_module"
+            },
+            {
+                "name": "Queue management Module",
+                "nameInput": "queue_management_module"
+            },
+            {
+                "name": "Manage E-kiosk",
+                "nameInput": "manage_e_kiosk"
+            },
+            {
+                "name": "Manage asset position",
+                "nameInput": "manage_e_kiosk_position"
+            },
+            {
+                "name": "Manage e-kiosk asset",
+                "nameInput": "manage_e_kiosk_asset"
+            },
+            {
+                "name": "Manage e-kiosk incoming request",
+                "nameInput": "manage_e_kiosk_incoming_request"
+            }
+        ],
+        "food_area": [
+            {
+                "name": "Manage food category",
+                "nameInput": "manage_food_categories"
+            },
+            {
+                "name": "Manage ingredients",
+                "nameInput": "manage_ingredients"
+            },
+            {
+                "name": "Manage modifiers",
+                "nameInput": "manage_modifiers"
+            },
+            {
+                "name": "Manage products",
+                "nameInput": "manage_food_items"
+            },
+            {
+                "name": "Manage deals",
+                "nameInput": "manage_deals"
+            }
+        ],
+        "users_area": [
+            {
+                "name": "Manage all users",
+                "nameInput": "manage_users"
+            },
+            {
+                "name": "Manage user roles",
+                "nameInput": "manage_user_roles"
+            },
+            {
+                "name": "Manage all customers",
+                "nameInput": "manage_customers"
+            }
+        ],
+        "reports_area": [
+            {
+                "name": "Overall report",
+                "nameInput": "manage_overall_reports"
+            },
+            {
+                "name": "Download overall report",
+                "nameInput": "print_overall_reports"
+            },
+            {
+                "name": "Tax report",
+                "nameInput": "manage_tax_reports"
+            },
+            {
+                "name": "Z report",
+                "nameInput": "manage_z_reports"
+            },
+            {
+                "name": "Download Z report",
+                "nameInput": "download_z_report"
+            },
+            {
+                "name": "Stock alerts",
+                "nameInput": "manage_stock_alerts"
+            }
+        ],
+        "advanced_area": [
+            {
+                "name": "Manage service tables",
+                "nameInput": "manage_service_tables"
+            },
+            {
+                "name": "Manage payment methods",
+                "nameInput": "manage_payment_methods"
+            },
+            {
+                "name": "Manage languages",
+                "nameInput": "manage_languages"
+            }
+        ],
+        "configuration_area": [
+            {
+                "name": "Settings view",
+                "nameInput": "manage_settings"
+            },
+            {
+                "name": "General",
+                "nameInput": "general_configuration"
+            },
+            {
+                "name": "Locations",
+                "nameInput": "locations_access"
+            },
+            {
+                "name": "Client appearance",
+                "nameInput": "client_appearance_configuration"
+            },
+            {
+                "name": "Currency",
+                "nameInput": "currency_configuration"
+            },
+            {
+                "name": "Units",
+                "nameInput": "unit_configuration"
+            },
+            {
+                "name": "Taxes",
+                "nameInput": "tax_configuration"
+            },
+            {
+                "name": "Authentication",
+                "nameInput": "authentication_configuration"
+            },
+            {
+                "name": "Captcha",
+                "nameInput": "captcha_configuration"
+            },
+            {
+                "name": "Localization",
+                "nameInput": "localization_configuration"
+            },
+            {
+                "name": "Invoice Printing",
+                "nameInput": "printer_configuration"
+            },
+            {
+                "name": "Help desk contact info",
+                "nameInput": "contact_helper_configuration"
+            },
+            {
+                "name": "Printer settings",
+                "nameInput": "printer_settings_configuration"
+            }
+        ],
+        "backup_database": [
+            {
+                "name": "See the list of backups",
+                "nameInput": "manage_backup"
+            },
+            {
+                "name": "Generate backup",
+                "nameInput": "generate_backup"
+            },
+            {
+                "name": "Download backup database",
+                "nameInput": "download_backup"
+            },
+            {
+                "name": "Delete backup database",
+                "nameInput": "delete_backup"
+            },
+            {
+                "name": "Restore backup database",
+                "nameInput": "restore_backup"
+            }
+        ]
+    }
+}
+
+

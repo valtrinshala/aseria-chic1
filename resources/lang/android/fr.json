@@ -1,0 +1,390 @@
+[
+    {
+        "key": "dessert_after_meal",
+        "value": "Un dessert apres le repas?..."
+    },
+    {
+        "key": "no_thank_you",
+        "value": "Non, merci"
+    },
+    {
+        "key": "add_more",
+        "value": "AJOUTER PLUS"
+    },
+    {
+        "key": "cart",
+        "value": "Panier"
+    },
+    {
+        "key": "validate_order",
+        "value": "VALIDER LA COMMANDE"
+    },
+    {
+        "key": "view_my_cart",
+        "value": "VOIR MON PANIER"
+    },
+    {
+        "key": "cancel_order",
+        "value": "ANNULER LA COMMANDE"
+    },
+    {
+        "key": "add_side_and_drink_question",
+        "value": "Souhaitez-vous ajouter un accompagnement et une boisson ?"
+    },
+    {
+        "key": "go_back",
+        "value": "Retour"
+    },
+    {
+        "key": "basic_ingredients",
+        "value": "Ingrdients de base"
+    },
+    {
+        "key": "add_modifiers",
+        "value": "Ajouter des modifications :"
+    },
+    {
+        "key": "cancel",
+        "value": "Annuler"
+    },
+    {
+        "key": "confirm",
+        "value": "Confirmer"
+    },
+    {
+        "key": "item_added_to_cart",
+        "value": "Article ajouter votre panier !"
+    },
+    {
+        "key": "total_amount",
+        "value": "Montant total !"
+    },
+    {
+        "key": "checkout",
+        "value": "Paiement"
+    },
+    {
+        "key": "add_another_item",
+        "value": "Ajouter un autre article"
+    },
+    {
+        "key": "choose_language",
+        "value": "S\u00e9lectionnez votre langue pr\u00e9f\u00e9r\u00e9e"
+    },
+    {
+        "key": "drinks",
+        "value": "Boissons"
+    },
+    {
+        "key": "modify",
+        "value": "Modifier"
+    },
+    {
+        "key": "next",
+        "value": "Suivant"
+    },
+    {
+        "key": "confirm_details",
+        "value": "Confirmer"
+    },
+    {
+        "key": "new_order",
+        "value": "Nouvelle commande"
+    },
+    {
+        "key": "select_package_preference",
+        "value": "Vous mangez sur place ou \u00e0 emporter?"
+    },
+    {
+        "key": "place_card_on_pos_terminal",
+        "value": "Placer la carte sur le terminal POS"
+    },
+    {
+        "key": "follow_payment_instruction",
+        "value": "Suivez les instructions affichees sur le terminal de paiement."
+    },
+    {
+        "key": "customize",
+        "value": "Personnaliser"
+    },
+    {
+        "key": "tap_to_order",
+        "value": "APPUYER POUR COMMANDER"
+    },
+    {
+        "key": "review",
+        "value": "Revue"
+    },
+    {
+        "key": "explore_our_delicious_menu",
+        "value": "Explorez notre delicieux menu"
+    },
+    {
+        "key": "connect",
+        "value": "Connecter"
+    },
+    {
+        "key": "complete_fields_to_configure_info_text",
+        "value": "Remplissez les champs ci-dessous pour configurer eKiosk"
+    },
+    {
+        "key": "server_ip_or_url",
+        "value": "IP du serveur \/ URL*"
+    },
+    {
+        "key": "server_ip_or_url_info",
+        "value": "Entrez l'IP ou l'URL de votre serveur"
+    },
+    {
+        "key": "authentication_code",
+        "value": "Code d'authentification*"
+    },
+    {
+        "key": "authentication_code_info",
+        "value": "Entrez le code d'authentification"
+    },
+    {
+        "key": "e_kiosk_id",
+        "value": "ID eKiosk*"
+    },
+    {
+        "key": "e_kiosk_id_info",
+        "value": "Entrez l'ID eKiosk"
+    },
+    {
+        "key": "refresh",
+        "value": "Actualiser"
+    },
+    {
+        "key": "waiting",
+        "value": "En attente !"
+    },
+    {
+        "key": "request_has_been_send",
+        "value": "Votre demande a ete envoyee."
+    },
+    {
+        "key": "login_authentication_code",
+        "value": "Code d'authentification de connexion*"
+    },
+    {
+        "key": "login_authentication_code_info",
+        "value": "Entrez le code d'authentification de connexion"
+    },
+    {
+        "key": "modify_your_item",
+        "value": "MODIFIER VOTRE ARTICLE"
+    },
+    {
+        "key": "modify_your_deal",
+        "value": "MODIFIER VOTRE OFFRE"
+    },
+    {
+        "key": "modify_this_deal",
+        "value": "Modifier"
+    },
+    {
+        "key": "number_of_call",
+        "value": "NUM\u00c9RO DE BIPPEUR"
+    },
+    {
+        "key": "continue",
+        "value": "Continuer"
+    },
+    {
+        "key": "order_not_processed_yet",
+        "value": "La commande n'a pas encore ete traitee !"
+    },
+    {
+        "key": "order_number",
+        "value": "Votre numero de commande"
+    },
+    {
+        "key": "locator_number",
+        "value": "Votre numero de localisation"
+    },
+    {
+        "key": "take_receipt_and_go_to_counter",
+        "value": "Prenez votre re\u00e7u et allez au comptoir pour continuer le paiement."
+    },
+    {
+        "key": "wait_for_order",
+        "value": "Attendez que votre numero de commande apparaisse  l'ecran et retirez-le au comptoir."
+    },
+    {
+        "key": "edit",
+        "value": "Editer"
+    },
+    {
+        "key": "grand_total",
+        "value": "Total"
+    },
+    {
+        "key": "size",
+        "value": "Taille"
+    },
+    {
+        "key": "what_it_has",
+        "value": "Ce qu'il contient"
+    },
+    {
+        "key": "cancel_modify",
+        "value": "Annuler modification"
+    },
+    {
+        "key": "inactivity_title",
+        "value": "Vous avez ete inactif pendant 40 secondes"
+    },
+    {
+        "key": "inactivity_description",
+        "value": "La commande redemarrera automatiquement aprs 15 secondes"
+    },
+    {
+        "key": "start_new_order",
+        "value": "Recommencer"
+    },
+    {
+        "key": "continue_with_this_order",
+        "value": "Continuer"
+    },
+    {
+        "key": "are_you_sure",
+        "value": "\u00cates-vous s\u00fbr?"
+    },
+    {
+        "key": "delete_order_description",
+        "value": "Etes-vous s\u00fbr de vouloir supprimer votre commande?"
+    },
+    {
+        "key": "confirm_delete",
+        "value": "Confirmer la suppression"
+    },
+    {
+        "key": "cancel_order_description",
+        "value": "\u00cates-vous s\u00fbr de vouloir annuler la commande?"
+    },
+    {
+        "key": "yes_cancel_order",
+        "value": "Oui, annuler la commande"
+    },
+    {
+        "key": "no",
+        "value": "Non"
+    },
+    {
+        "key": "reset",
+        "value": "Reinitialiser"
+    },
+    {
+        "key": "setup_payment_terminal",
+        "value": "Configurer le terminal de paiement"
+    },
+    {
+        "key": "register",
+        "value": "S'inscrire"
+    },
+    {
+        "key": "payment_successful",
+        "value": "Paiement reussi"
+    },
+    {
+        "key": "wait_for_receipt",
+        "value": "Attendre le re\u00e7u !"
+    },
+    {
+        "key": "payment_rejected",
+        "value": "Paiement refuse"
+    },
+    {
+        "key": "payment_technical_error",
+        "value": "Nous nous excusons, un problme technique est survenu. Veuillez recommencer une nouvelle commande ou vous rendre  une caisse disponible pour poursuivre votre commande."
+    },
+    {
+        "key": "retry_order",
+        "value": "Reessayer la commande"
+    },
+    {
+        "key": "enter_pin",
+        "value": "Entrer le code PIN"
+    },
+    {
+        "key": "ticked_reprint",
+        "value": "Reimpression du ticket manuel"
+    },
+    {
+        "key": "payment_reversal",
+        "value": "Annulation de paiement"
+    },
+    {
+        "key": "start_up_terminal",
+        "value": "Demarrer le terminal"
+    },
+    {
+        "key": "activate_terminal",
+        "value": "Activer le terminal"
+    },
+    {
+        "key": "service_menu",
+        "value": "Menu de service"
+    },
+    {
+        "key": "close_menu",
+        "value": "Fermer le menu"
+    },
+    {
+        "key": "change_terminal",
+        "value": "Changer de terminal"
+    },
+    {
+        "key": "dine_in",
+        "value": "Sur place"
+    },
+    {
+        "key": "take_away",
+        "value": "A emporter"
+    },
+    {
+        "key": "no_internet",
+        "value": "Pas d'internet !"
+    },
+    {
+        "key": "no_internet_description",
+        "value": "L'appareil rencontre des problmes de reseau, veuillez nous accorder un peu de temps. N'hesitez pas vous rendre  une caisse disponible."
+    },
+    {
+        "key": "side",
+        "value": "Accompagnement"
+    },
+    {
+        "key": "sauces",
+        "value": "Sauces"
+    },
+    {
+        "key": "meal",
+        "value": "Repas"
+    },
+    {
+        "key": "add",
+        "value": "Ajouter :"
+    },
+    {
+        "key": "small",
+        "value": "Petit"
+    },
+    {
+        "key": "medium",
+        "value": "Moyen"
+    },
+    {
+        "key": "large",
+        "value": "Grand"
+    },
+    {
+        "key": "cash",
+        "value": "Esp\u00e8ces"
+    },
+    {
+        "key": "card",
+        "value": "Carte"
+    }
+]

@@ -1,0 +1,367 @@
+{
+  "resources/assets/js/custom/apps/backup-database/delete-restore-backup.js": {
+    "file": "assets/delete-restore-backup-1359a8a6.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/backup-database/delete-restore-backup.js"
+  },
+  "resources/assets/js/custom/apps/cash-registers/add.js": {
+    "file": "assets/add-bc52f349.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/cash-registers/add.js"
+  },
+  "resources/assets/js/custom/apps/cash-registers/list/list.js": {
+    "file": "assets/list-535d9dc2.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/cash-registers/list/list.js"
+  },
+  "resources/assets/js/custom/apps/customers/add.js": {
+    "file": "assets/add-1b494c13.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/customers/add.js"
+  },
+  "resources/assets/js/custom/apps/customers/list/list.js": {
+    "file": "assets/list-a3a4ae39.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/customers/list/list.js"
+  },
+  "resources/assets/js/custom/apps/dashboard-charts/chart.js": {
+    "file": "assets/chart-80e17ff3.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/dashboard-charts/chart.js"
+  },
+  "resources/assets/js/custom/apps/e-kiosk-assets/add.js": {
+    "file": "assets/add-715c9180.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/e-kiosk-assets/add.js"
+  },
+  "resources/assets/js/custom/apps/e-kiosk-assets/list/list.js": {
+    "file": "assets/list-8172bb0f.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/e-kiosk-assets/list/list.js"
+  },
+  "resources/assets/js/custom/apps/e-kiosk-positions/add.js": {
+    "file": "assets/add-49069484.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/e-kiosk-positions/add.js"
+  },
+  "resources/assets/js/custom/apps/e-kiosk-positions/list/list.js": {
+    "file": "assets/list-6310062c.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/e-kiosk-positions/list/list.js"
+  },
+  "resources/assets/js/custom/apps/e-kiosks/add.js": {
+    "file": "assets/add-9370264d.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/e-kiosks/add.js"
+  },
+  "resources/assets/js/custom/apps/e-kiosks/list/list.js": {
+    "file": "assets/list-e7c1d724.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/e-kiosks/list/list.js"
+  },
+  "resources/assets/js/custom/apps/food-categories/add.js": {
+    "file": "assets/add-25f9bbd2.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/food-categories/add.js"
+  },
+  "resources/assets/js/custom/apps/food-categories/list/list.js": {
+    "file": "assets/list-3b1be2ee.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/food-categories/list/list.js"
+  },
+  "resources/assets/js/custom/apps/food-items/add.js": {
+    "file": "assets/add-c03f4d0e.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/food-items/add.js"
+  },
+  "resources/assets/js/custom/apps/food-items/list/list.js": {
+    "file": "assets/list-0dac42ad.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/food-items/list/list.js"
+  },
+  "resources/assets/js/custom/apps/food-items/update.js": {
+    "file": "assets/update-04524c72.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/food-items/update.js"
+  },
+  "resources/assets/js/custom/apps/incoming-requests/remove-incoming-requests.js": {
+    "file": "assets/remove-incoming-requests-f8d798f9.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/incoming-requests/remove-incoming-requests.js"
+  },
+  "resources/assets/js/custom/apps/ingredients/add.js": {
+    "file": "assets/add-f2e402e8.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/ingredients/add.js"
+  },
+  "resources/assets/js/custom/apps/ingredients/list/list.js": {
+    "file": "assets/list-1822950d.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/ingredients/list/list.js"
+  },
+  "resources/assets/js/custom/apps/kitchen/admin/add.js": {
+    "file": "assets/add-3ca349f3.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/kitchen/admin/add.js"
+  },
+  "resources/assets/js/custom/apps/kitchen/admin/list/list.js": {
+    "file": "assets/list-7a8c908e.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/kitchen/admin/list/list.js"
+  },
+  "resources/assets/js/custom/apps/kitchen/admin/remove-incoming-requests.js": {
+    "file": "assets/remove-incoming-requests-fe0b12c9.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/kitchen/admin/remove-incoming-requests.js"
+  },
+  "resources/assets/js/custom/apps/kitchen/cards-preview.js": {
+    "file": "assets/cards-preview-d69bdb40.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/kitchen/cards-preview.js"
+  },
+  "resources/assets/js/custom/apps/kitchen/cards.js": {
+    "file": "assets/cards-2baf054f.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/kitchen/cards.js"
+  },
+  "resources/assets/js/custom/apps/languages/add.js": {
+    "file": "assets/add-0ac0ae12.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/languages/add.js"
+  },
+  "resources/assets/js/custom/apps/languages/list/list.js": {
+    "file": "assets/list-a5cc8da9.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/languages/list/list.js"
+  },
+  "resources/assets/js/custom/apps/main.js": {
+    "file": "assets/main-0e3e265f.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/main.js"
+  },
+  "resources/assets/js/custom/apps/meals/add.js": {
+    "file": "assets/add-44b82c72.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/meals/add.js"
+  },
+  "resources/assets/js/custom/apps/meals/list/list.js": {
+    "file": "assets/list-24250b40.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/meals/list/list.js"
+  },
+  "resources/assets/js/custom/apps/meals/update.js": {
+    "file": "assets/update-8bbf04d0.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/meals/update.js"
+  },
+  "resources/assets/js/custom/apps/modifiers/add.js": {
+    "file": "assets/add-89c7ec26.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/modifiers/add.js"
+  },
+  "resources/assets/js/custom/apps/modifiers/list/list.js": {
+    "file": "assets/list-d142466b.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/modifiers/list/list.js"
+  },
+  "resources/assets/js/custom/apps/modifiers/update.js": {
+    "file": "assets/update-dfb5e1e1.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/modifiers/update.js"
+  },
+  "resources/assets/js/custom/apps/our-locations/add.js": {
+    "file": "assets/add-d7f7adaa.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/our-locations/add.js"
+  },
+  "resources/assets/js/custom/apps/payment-methods/add.js": {
+    "file": "assets/add-31ee32e1.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/payment-methods/add.js"
+  },
+  "resources/assets/js/custom/apps/pos/admin/add.js": {
+    "file": "assets/add-072dfed3.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/pos/admin/add.js"
+  },
+  "resources/assets/js/custom/apps/pos/admin/list/list.js": {
+    "file": "assets/list-39f69f0d.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/pos/admin/list/list.js"
+  },
+  "resources/assets/js/custom/apps/pos/admin/remove-incoming-requests.js": {
+    "file": "assets/remove-incoming-requests-7aa76fa7.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/pos/admin/remove-incoming-requests.js"
+  },
+  "resources/assets/js/custom/apps/pos/custom.js": {
+    "file": "assets/custom-7abd9d02.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/pos/custom.js"
+  },
+  "resources/assets/js/custom/apps/pos/z-report.js": {
+    "file": "assets/z-report-ccdc8c20.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/pos/z-report.js"
+  },
+  "resources/assets/js/custom/apps/printer-settings/add.js": {
+    "file": "assets/add-86262833.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/printer-settings/add.js"
+  },
+  "resources/assets/js/custom/apps/printer-settings/device_settings.js": {
+    "file": "assets/device_settings-122bc9d8.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/printer-settings/device_settings.js"
+  },
+  "resources/assets/js/custom/apps/printer-settings/list/list.js": {
+    "file": "assets/list-7080d515.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/printer-settings/list/list.js"
+  },
+  "resources/assets/js/custom/apps/queue-management/add.js": {
+    "file": "assets/add-bb8a8acd.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/queue-management/add.js"
+  },
+  "resources/assets/js/custom/apps/queue-management/list/list.js": {
+    "file": "assets/list-6401f441.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/queue-management/list/list.js"
+  },
+  "resources/assets/js/custom/apps/reports/overall-report-list.js": {
+    "file": "assets/overall-report-list-2d118766.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/reports/overall-report-list.js"
+  },
+  "resources/assets/js/custom/apps/reports/stock-alert-list.js": {
+    "file": "assets/stock-alert-list-df78bfaf.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/reports/stock-alert-list.js"
+  },
+  "resources/assets/js/custom/apps/reports/tax-report-chart.js": {
+    "file": "assets/tax-report-chart-cdc2aeb9.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/reports/tax-report-chart.js"
+  },
+  "resources/assets/js/custom/apps/reports/z-report-list.js": {
+    "file": "assets/z-report-list-77a61b9b.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/reports/z-report-list.js"
+  },
+  "resources/assets/js/custom/apps/sales/list/list.js": {
+    "file": "assets/list-1d96625c.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/sales/list/list.js"
+  },
+  "resources/assets/js/custom/apps/sales/sales-print.js": {
+    "file": "assets/sales-print-071471db.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/sales/sales-print.js"
+  },
+  "resources/assets/js/custom/apps/service-tables/add.js": {
+    "file": "assets/add-b53cb8d5.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/service-tables/add.js"
+  },
+  "resources/assets/js/custom/apps/settings/add.js": {
+    "file": "assets/add-fec82c23.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/settings/add.js"
+  },
+  "resources/assets/js/custom/apps/settings/appearance.js": {
+    "file": "assets/appearance-3bad1279.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/settings/appearance.js"
+  },
+  "resources/assets/js/custom/apps/settings/client-appearance.js": {
+    "file": "assets/client-appearance-b2afec35.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/settings/client-appearance.js"
+  },
+  "resources/assets/js/custom/apps/settings/help-contacts.js": {
+    "file": "assets/help-contacts-aa08aaaf.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/settings/help-contacts.js"
+  },
+  "resources/assets/js/custom/apps/settings/invoice-printers.js": {
+    "file": "assets/invoice-printers-134fff06.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/settings/invoice-printers.js"
+  },
+  "resources/assets/js/custom/apps/system-assets/add.js": {
+    "file": "assets/add-338e790f.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/system-assets/add.js"
+  },
+  "resources/assets/js/custom/apps/system-assets/list/list.js": {
+    "file": "assets/list-7bdc0a4c.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/system-assets/list/list.js"
+  },
+  "resources/assets/js/custom/apps/taxes/add.js": {
+    "file": "assets/add-284c875e.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/taxes/add.js"
+  },
+  "resources/assets/js/custom/apps/units/add.js": {
+    "file": "assets/add-ccc9233b.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/units/add.js"
+  },
+  "resources/assets/js/custom/apps/user-roles/add.js": {
+    "file": "assets/add-f22fc3b3.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/user-roles/add.js"
+  },
+  "resources/assets/js/custom/apps/user-roles/list/list.js": {
+    "file": "assets/list-4c9c295d.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/user-roles/list/list.js"
+  },
+  "resources/assets/js/custom/apps/users/add.js": {
+    "file": "assets/add-707f9c47.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/users/add.js"
+  },
+  "resources/assets/js/custom/apps/users/list/list.js": {
+    "file": "assets/list-cc6795db.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/users/list/list.js"
+  },
+  "resources/assets/js/custom/apps/utils.js": {
+    "file": "assets/utils-ff2f39a0.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/apps/utils.js"
+  },
+  "resources/assets/js/custom/utilities/modals/create-app.js": {
+    "file": "assets/create-app-c6bfea83.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/utilities/modals/create-app.js"
+  },
+  "resources/assets/js/custom/utilities/modals/upgrade-plan.js": {
+    "file": "assets/upgrade-plan-e7a95018.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/utilities/modals/upgrade-plan.js"
+  },
+  "resources/assets/js/custom/utilities/modals/users-search.js": {
+    "file": "assets/users-search-84ef85bc.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/utilities/modals/users-search.js"
+  },
+  "resources/assets/js/custom/widgets.js": {
+    "file": "assets/widgets-e05516a6.js",
+    "isEntry": true,
+    "src": "resources/assets/js/custom/widgets.js"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-1ca61c52.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}

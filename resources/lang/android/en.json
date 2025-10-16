@@ -1,0 +1,390 @@
+[
+    {
+        "key": "dessert_after_meal",
+        "value": "A dessert after Meal?"
+    },
+    {
+        "key": "no_thank_you",
+        "value": "No, thank you"
+    },
+    {
+        "key": "add_more",
+        "value": "ADD MORE"
+    },
+    {
+        "key": "cart",
+        "value": "Cart"
+    },
+    {
+        "key": "validate_order",
+        "value": "VALIDATE ORDER"
+    },
+    {
+        "key": "view_my_cart",
+        "value": "VIEW MY CART"
+    },
+    {
+        "key": "cancel_order",
+        "value": "CANCEL ORDER"
+    },
+    {
+        "key": "add_side_and_drink_question",
+        "value": "Would you like add a side and a drink?"
+    },
+    {
+        "key": "go_back",
+        "value": "Go back"
+    },
+    {
+        "key": "basic_ingredients",
+        "value": "Basic Ingredients"
+    },
+    {
+        "key": "add_modifiers",
+        "value": "Add modifiers:"
+    },
+    {
+        "key": "cancel",
+        "value": "Cancel"
+    },
+    {
+        "key": "confirm",
+        "value": "Confirm"
+    },
+    {
+        "key": "item_added_to_cart",
+        "value": "Item added to your cart!"
+    },
+    {
+        "key": "total_amount",
+        "value": "Total amount!"
+    },
+    {
+        "key": "checkout",
+        "value": "Checkout"
+    },
+    {
+        "key": "add_another_item",
+        "value": "Add another item"
+    },
+    {
+        "key": "choose_language",
+        "value": "Select your preferred language"
+    },
+    {
+        "key": "drinks",
+        "value": "Drinks"
+    },
+    {
+        "key": "modify",
+        "value": "Modify"
+    },
+    {
+        "key": "next",
+        "value": "Next"
+    },
+    {
+        "key": "confirm_details",
+        "value": "Confirm"
+    },
+    {
+        "key": "new_order",
+        "value": "New Order"
+    },
+    {
+        "key": "select_package_preference",
+        "value": "Select package preference"
+    },
+    {
+        "key": "place_card_on_pos_terminal",
+        "value": "Place Card on POS terminal"
+    },
+    {
+        "key": "follow_payment_instruction",
+        "value": "Follow the instructions display on the kiosk payment terminal."
+    },
+    {
+        "key": "customize",
+        "value": "Customize"
+    },
+    {
+        "key": "tap_to_order",
+        "value": "TAP TO ORDER"
+    },
+    {
+        "key": "review",
+        "value": "Review"
+    },
+    {
+        "key": "explore_our_delicious_menu",
+        "value": "Explore our delicious menu"
+    },
+    {
+        "key": "connect",
+        "value": "Connect"
+    },
+    {
+        "key": "complete_fields_to_configure_info_text",
+        "value": "Complete the fields below to configure eKiosk"
+    },
+    {
+        "key": "server_ip_or_url",
+        "value": "Server IP / URL*"
+    },
+    {
+        "key": "server_ip_or_url_info",
+        "value": "Write your server IP or URL"
+    },
+    {
+        "key": "authentication_code",
+        "value": "Authentication Code*"
+    },
+    {
+        "key": "authentication_code_info",
+        "value": "Write authentication code"
+    },
+    {
+        "key": "e_kiosk_id",
+        "value": "eKiosk Id*"
+    },
+    {
+        "key": "e_kiosk_id_info",
+        "value": "Write eKiosk Id"
+    },
+    {
+        "key": "refresh",
+        "value": "Refresh"
+    },
+    {
+        "key": "waiting",
+        "value": "Waiting!"
+    },
+    {
+        "key": "request_has_been_send",
+        "value": "Your request as been sent."
+    },
+    {
+        "key": "login_authentication_code",
+        "value": "Login Authentication Code*"
+    },
+    {
+        "key": "login_authentication_code_info",
+        "value": "Write login authentication code"
+    },
+    {
+        "key": "modify_your_item",
+        "value": "MODIFY YOUR ITEM"
+    },
+    {
+        "key": "modify_your_deal",
+        "value": "MODIFY YOUR DEAL"
+    },
+    {
+        "key": "modify_this_deal",
+        "value": "Modify"
+    },
+    {
+        "key": "number_of_call",
+        "value": "NUMBER OF CALL"
+    },
+    {
+        "key": "continue",
+        "value": "Continue"
+    },
+    {
+        "key": "order_not_processed_yet",
+        "value": "Order has not been processed yet!"
+    },
+    {
+        "key": "order_number",
+        "value": "Your order number"
+    },
+    {
+        "key": "locator_number",
+        "value": "Your locator number"
+    },
+    {
+        "key": "take_receipt_and_go_to_counter",
+        "value": "Take your receipt and go to the counter to continue with the payment."
+    },
+    {
+        "key": "wait_for_order",
+        "value": "Wait for your order number to appear on the screen and pick it up at the the counter."
+    },
+    {
+        "key": "edit",
+        "value": "Edit"
+    },
+    {
+        "key": "grand_total",
+        "value": "Total"
+    },
+    {
+        "key": "size",
+        "value": "Size"
+    },
+    {
+        "key": "what_it_has",
+        "value": "What it has"
+    },
+    {
+        "key": "cancel_modify",
+        "value": "Cancel Modify"
+    },
+    {
+        "key": "inactivity_title",
+        "value": "You were inactive for 40 seconds"
+    },
+    {
+        "key": "inactivity_description",
+        "value": "Order will restart automatically after 15 seconds"
+    },
+    {
+        "key": "start_new_order",
+        "value": "Start over"
+    },
+    {
+        "key": "continue_with_this_order",
+        "value": "Continue"
+    },
+    {
+        "key": "are_you_sure",
+        "value": "Are you sure?"
+    },
+    {
+        "key": "delete_order_description",
+        "value": "Are you sure you want to delete your order?"
+    },
+    {
+        "key": "confirm_delete",
+        "value": "Confirm delete"
+    },
+    {
+        "key": "cancel_order_description",
+        "value": "Are you sure to cancel order?"
+    },
+    {
+        "key": "yes_cancel_order",
+        "value": "Yes, cancel order"
+    },
+    {
+        "key": "no",
+        "value": "No"
+    },
+    {
+        "key": "reset",
+        "value": "Reset"
+    },
+    {
+        "key": "setup_payment_terminal",
+        "value": "Setup payment terminal"
+    },
+    {
+        "key": "register",
+        "value": "Register"
+    },
+    {
+        "key": "payment_successful",
+        "value": "Payment Successful"
+    },
+    {
+        "key": "wait_for_receipt",
+        "value": "Wait for receipt!"
+    },
+    {
+        "key": "payment_rejected",
+        "value": "Payment Rejected"
+    },
+    {
+        "key": "payment_technical_error",
+        "value": "We apologize, there is a technical issue, please start a new order or go to an available Cash Register to proceed with your order."
+    },
+    {
+        "key": "retry_order",
+        "value": "Retry Order"
+    },
+    {
+        "key": "enter_pin",
+        "value": "Enter PIN"
+    },
+    {
+        "key": "ticked_reprint",
+        "value": "Manual ticket reprint"
+    },
+    {
+        "key": "payment_reversal",
+        "value": "Payment Reversal"
+    },
+    {
+        "key": "start_up_terminal",
+        "value": "Start up Terminal"
+    },
+    {
+        "key": "activate_terminal",
+        "value": "Activate Terminal"
+    },
+    {
+        "key": "service_menu",
+        "value": "Service Menu"
+    },
+    {
+        "key": "close_menu",
+        "value": "Close Menu"
+    },
+    {
+        "key": "change_terminal",
+        "value": "Change Terminal"
+    },
+    {
+        "key": "dine_in",
+        "value": "Dine In"
+    },
+    {
+        "key": "take_away",
+        "value": "Take away"
+    },
+    {
+        "key": "no_internet",
+        "value": "No internet!"
+    },
+    {
+        "key": "no_internet_description",
+        "value": "The device is having some network issues, please allow us some time. Feel free to visit any available Cash Register."
+    },
+    {
+        "key": "side",
+        "value": "Side"
+    },
+    {
+        "key": "sauces",
+        "value": "Sauces"
+    },
+    {
+        "key": "meal",
+        "value": "Meal"
+    },
+    {
+        "key": "add",
+        "value": "Add:"
+    },
+    {
+        "key": "small",
+        "value": "Small"
+    },
+    {
+        "key": "medium",
+        "value": "Medium"
+    },
+    {
+        "key": "large",
+        "value": "Large"
+    },
+    {
+        "key": "cash",
+        "value": "Cash"
+    },
+    {
+        "key": "card",
+        "value": "Card"
+    }
+]
